@@ -13,7 +13,7 @@ class Appointment
     @@all
   end
 
-  
+
 
 
 
