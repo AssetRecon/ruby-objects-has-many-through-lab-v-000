@@ -1,4 +1,4 @@
-class Genre 
+class Genre
   @@all = []
   attr_accessor :name
 
